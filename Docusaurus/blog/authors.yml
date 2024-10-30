@@ -1,3 +1,21 @@
+kaachiii:
+  name: Ischika Afrilla
+  title: Operating Systems student
+  url: https://github.com/kaachiii
+  image_url: https://i.pinimg.com/564x/6d/09/54/6d09542cd22fa5bcb5527b97cbd1f6fd.jpg
+  page: true
+  socials:
+    github: kaachiii
+
+rizqyazzahra:
+  name: Rizqya Az Zahra Putri
+  title: Operating Systems student
+  url: https://github.com/rizqyazzahra
+  image_url: https://i.pinimg.com/564x/6d/09/54/6d09542cd22fa5bcb5527b97cbd1f6fd.jpg
+  page: true
+  socials:
+    github: rizqyazzahra
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
